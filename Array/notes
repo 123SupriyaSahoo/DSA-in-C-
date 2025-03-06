@@ -1,0 +1,70 @@
+Basic Array Problems
+Find the largest and smallest element in an array.
+Find the second largest and second smallest element.
+Reverse an array.
+Find the sum of all elements in an array.
+Find the missing number in an array of size N-1 with elements from 1 to N.
+
+
+Sorting & Searching
+Implement Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort.
+Search an element using Binary Search (Sorted Array).
+Find the first and last occurrences of an element in a sorted array.
+Find the Kth smallest and Kth largest element.
+Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
+
+
+Two Pointer & Sliding Window
+Find a pair with a given sum in a sorted array (Two-pointer approach).
+Move all negative numbers to one side of the array.
+Find the maximum sum subarray of size K (Sliding Window).
+Find the longest subarray with sum K.
+Smallest subarray with sum greater than X.
+
+
+Kadane’s Algorithm & Subarrays
+Maximum sum subarray (Kadane’s Algorithm).
+Maximum product subarray.
+Find the longest subarray with equal number of 0s and 1s.
+Find the subarray with the given sum (handles positive numbers).
+Find the subarray with sum 0 (handles positive & negative numbers).
+
+
+Prefix Sum & Hashing
+Find the equilibrium index of an array.
+Find the sum of all subarrays.
+Check if a subarray with sum K exists (using HashMap).
+Count the number of subarrays with sum equal to K.
+Find the frequency of elements in an array.
+
+
+Rearrangement & Modification
+Rearrange an array so that arr[i] = i.
+Rearrange positive and negative numbers alternatively.
+Rearrange array in alternating max/min order.
+Next permutation of an array.
+Convert an array into a Zig-Zag fashion.
+
+
+Bit Manipulation & XOR
+Find the only non-repeating element where every other element repeats twice.
+Find two non-repeating elements where every other element repeats twice.
+Find the missing number in an array using XOR.
+Find the number that appears odd times in an array.
+Find the two numbers whose XOR is minimum in an array.
+
+
+Matrix-Based Problems
+Rotate a matrix by 90 degrees.
+Transpose of a matrix.
+Spiral traversal of a matrix.
+Find the row with the maximum number of 1s in a binary matrix.
+Search an element in a row-wise and column-wise sorted matrix.
+
+
+Advanced & Hard Problems
+Find the majority element (element occurring more than n/2 times).
+Find the maximum length of a bitonic subarray.
+Find the median of two sorted arrays of different sizes.
+Find the maximum difference between two elements in an array.
+Find the number of subarrays with at most K distinct elements.
